@@ -1,5 +1,7 @@
 # Nginx
 
++ nginx.conf
+
 ```shell
 
 #user  nobody;
